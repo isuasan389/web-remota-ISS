@@ -1,1 +1,2 @@
-# web-remota-ISS
+# Proyecto remoto
+Estado: versión inicial
