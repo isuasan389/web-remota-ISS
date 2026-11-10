@@ -1,2 +1,2 @@
 # Proyecto remoto
-Estado: cambio de la persona B
+Estado: trabajo integrado de A y B
